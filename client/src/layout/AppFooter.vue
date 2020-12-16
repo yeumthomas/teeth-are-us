@@ -59,23 +59,23 @@
                             <tbody>
                                 <tr>
                                     <th scope="row">Monday</th>
-                                    <td><b>Closed</b> (Drs work at 2nd office)</td>
+                                    <td><b>9AM - 5:30PM</b> (after-hours available)</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Tuesday</th>
-                                    <td><b>9AM - 5:30PM</b> (after-hours available)</td>
+                                    <td><b>Closed</b> (Drs work at 2nd office)</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Wednesday</th>
-                                    <td><b>Closed</b> (Drs work at 2nd office)</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">Thursday</th>
                                     <td><b>9AM - 5:30PM</b> (after-hours available)</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Friday</th>
+                                    <th scope="row">Thursday</th>
                                     <td><b>Closed</b> (Drs work at 2nd office)</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Friday</th>
+                                    <td><b>9AM - 5:30PM</b> (after-hours available)</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Saturday</th>
