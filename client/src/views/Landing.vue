@@ -45,15 +45,17 @@
                     </div>
                 </div>
             </section>
-            <!-- 1st Hero Variation -->
         </div>
         
+        <!-- SECTION 1 STATISTICS -->
         <section class="section section-lg pt-lg-0 mt--200">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-12">
+                        <h6 class="text-white text-weight-light text-center">Clinical Figures</h6>
+                        <h3 class="text-white text-weight-heavy text-center">What we have Achieved</h3>
                         <div class="row row-grid">
-                            <div class="col-lg-3">
+                            <div class="col-lg-3 col-md-6 mt-md-3">
                                 <card class="border-0" shadow body-classes="py-4">
                                     <div class="align-items-center text-center">
                                         <icon name="fa fa-handshake-o" type="primary" rounded class="mb-3">
@@ -63,7 +65,7 @@
                                     </div>
                                 </card>
                             </div>
-                            <div class="col-lg-3">
+                            <div class="col-lg-3 col-md-6 mt-md-3">
                                 <card class="border-0" shadow body-classes="py-4">
                                     <div class="align-items-center text-center">
                                         <icon name="ni ni-satisfied" type="primary" rounded class="mb-3">
@@ -73,7 +75,7 @@
                                     </div>
                                 </card>
                             </div>
-                            <div class="col-lg-3">
+                            <div class="col-lg-3 col-md-6 mt-md-3">
                                 <card class="border-0" shadow body-classes="py-4">
                                     <div class="align-items-center text-center">
                                         <icon name="fa fa-users" type="primary" rounded class="mb-3">
@@ -83,7 +85,7 @@
                                     </div>
                                 </card>
                             </div>
-                            <div class="col-lg-3">
+                            <div class="col-lg-3 col-md-6 mt-md-3">
                                 <card class="border-0" shadow body-classes="py-4">
                                     <div class="align-items-center text-center">
                                         <icon name="fa fa-map-marker" type="primary" rounded class="mb-3">
@@ -98,7 +100,179 @@
                 </div>
             </div>
         </section>
-        <section class="section section-lg">
+
+        <!-- SECTION 2 ABOUT BRIEF -->
+        <section class="section section-lg mt--100">
+            <div class="container">
+                <div class="row row-grid align-items-center">
+                    <div class="col-lg-6 order-sm-2 align-items-center mt-sm-4 mt-md-5 mt-lg-0">
+                        <img src="img/olive-dental.jpg" class="img-fluid rounded">
+                    </div>
+                    <div class="col-lg-6 order-sm-1">
+                        <div class="pr-lg-2">
+                        
+                            <h5 class="font-weight-light">20+ Years of Dental Excellence</h5>
+                            <h3><b>Welcome to Teeth Are Us Dental</b></h3>
+                            <p class="mt-3">If you are looking for a great dentist in Katy or surrounding area, give us a try. 
+                                Dentistry is our passion and we want you to receive care in our state of the art dental office. 
+                                Our team at Katy Olive Dental is committed to creating a warm, comfortable and welcoming environment 
+                                for everyone.</p>
+                            <p class="mt-2"></p>
+                            <p>Our team works with you to provide personalized, gentle care in a modern yet warm atmosphere you can 
+                                feel at home. We are committed to providing you and your family with high quality dental care in a 
+                                comfortable setting.</p>
+                            <div class="btn-wrapper">
+                                <a href="https://www.google.com/"
+                                    class="btn btn-primary mb-3 mb-sm-0">Learn More <b>→</b> MAP THIS LINK BRUH</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SERVICES INTRO -->
+        <section class="section section-xl bg-gradient-secondary">
+            <div class="shape shape-style-1 bg-gradient-warning shape-skew">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="container">
+                <div class="row align-items-center mt-100 ">
+                    <div class="col text-center">
+                        <h6 class="text-weight-light">What we Offer</h6>
+                        <h3 class="text-center"><b>General Services</b></h3>
+                    </div>
+                    <div class="row align-items-center d-flex align-items-start align-content-stretch">
+                        <div class="col-md-6 d-flex align-self-start">
+                            <card class="shadow-lg--hover shadow mt-5">
+                                <div class="d-flex px-1">
+                                    <div>
+                                        <icon name="ni ni-satisfied" gradient="info" color="white" shadow
+                                            rounded></icon>
+                                    </div>
+                                    <div class="pl-4">
+                                        <h4 class="title text-info">Cosmetic Dentistry</h4>
+                                        <p>Cosmetic Dentistry is concerned with the appearance of teeth 
+                                            and the enhancement of one's smile.</p>
+                                        <div>
+                                            <span class="badge badge-info badge-pill">teeth whitening</span>
+                                            <span class="badge badge-info badge-pill">gap closure</span>
+                                            <span class="badge badge-info badge-pill">veneers</span>
+                                        </div>
+                                        <div class="mt-3"><a href="#" class="text-info">Learn more <b>→</b> BROKEN</a></div>
+                                    </div>
+                                </div>
+                            </card>
+                        </div>
+                        <div class="col-md-6 d-flex align-self-start">
+                            <card class="shadow-lg--hover shadow mt-5">
+                                <div class="d-flex px-3">
+                                    <div>
+                                        <icon name="fa fa-heart" gradient="info" color="white" shadow
+                                            rounded></icon>
+                                    </div>
+                                    <div class="pl-4">
+                                        <h4 class="title text-info">General Dentistry</h4>
+                                        <p>General dentists provide services related to the general maintenance
+                                            of oral hygiene and tooth health.</p>
+                                        <div>
+                                            <span class="badge badge-info badge-pill">checkups</span>
+                                            <span class="badge badge-info badge-pill">root canals</span>
+                                            <span class="badge badge-info badge-pill">tooth extractions</span>
+                                        </div>
+                                        <div class="mt-3"><a href="#" class="text-info">Learn more <b>→</b></a></div>
+                                    </div>
+                                </div>
+                            </card>
+                        </div>
+                        <div class="col-md-6 d-flex align-self-start">
+                            <card class="shadow-lg--hover shadow mt-5">
+                                <div class="d-flex px-3">
+                                    <div>
+                                        <icon name="fa fa-child" gradient="info" color="white" shadow
+                                            rounded></icon>
+                                    </div>
+                                    <div class="pl-4">
+                                        <h4 class="title text-info">Pediatric Dentistry</h4>
+                                        <p>Your child will receive state-of-the-art
+                                            oral care from our team.</p>
+                                        <div>
+                                            <span class="badge badge-info badge-pill">preventative screening</span>
+                                            <span class="badge badge-info badge-pill">baby root canal</span>
+                                        </div>
+                                        <div class="mt-3"><a href="#" class="text-info">Learn more <b>→</b></a></div>
+                                    </div>
+                                </div>
+                            </card>
+                        </div>
+                        <div class="col-md-6 d-flex align-self-start">
+                            <card class="shadow-lg--hover shadow mt-5">
+                                <div class="d-flex px-3">
+                                    <div>
+                                        <icon name="fa fa-ambulance" gradient="info" color="white" shadow
+                                            rounded></icon>
+                                    </div>
+                                    <div class="pl-4">
+                                        <h4 class="title text-info">Dental Emergency</h4>
+                                        <p>Helping thousands of people each year find immediate dental services.</p>
+                                        <div>
+                                            <span class="badge badge-info badge-pill">chipped tooth</span>
+                                            <span class="badge badge-info badge-pill">BRUH IDK</span>
+                                            <span class="badge badge-info badge-pill">BRUH IDK</span>
+                                        </div>
+                                        <div class="mt-3"><a href="#" class="text-info">Learn more <b>→</b></a></div>
+                                    </div>
+                                </div>
+                            </card>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+                    
+        <!-- DENTIST BIO INTRO -->
+
+        <section class="section section section-shaped my-0 overflow-hidden">
+            <div class="shape shape-style-1 shape-skew">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="container py-0">
+                <div class="row row-grid align-items-center">
+                    <div class="col-md-6 ml-lg-auto">
+                        <div class="position-relative pl-md-5">
+                            <img src="img/aboji-umoni.png" class="img-center img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="d-flex px-3">
+                            <div>
+                                <icon name="ni ni-building" size="lg" class="bg-gradient-white" color="primary" shadow
+                                      rounded></icon>
+                            </div>
+                            <div class="pl-4">
+                                <h4 class=" text-grey">Need a <h4 class="display-3 text-primary inline">Certified Dentist?</h4></h4>
+                                <p class="text-grey">We're always accepting new patients! We believe in providing the best possible 
+                                    care to all our existing patients and welcome new patients to sample the service we have to offer.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+        <section class="section section-md">
             <div class="container">
                 <div class="row row-grid align-items-center">
                     <div class="col-md-6 order-md-2">
@@ -173,66 +347,7 @@
                 </div>
             </div>
         </section>
-        <section class="section section section-shaped my-0 overflow-hidden">
-            <div class="shape shape-style-1 bg-gradient-warning shape-skew">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-            <div class="container py-0">
-                <div class="row row-grid align-items-center">
-                    <div class="col-md-6 order-lg-2 ml-lg-auto">
-                        <div class="position-relative pl-md-5">
-                            <img src="img/ill/ill-2.svg" class="img-center img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 order-lg-1">
-                        <div class="d-flex px-3">
-                            <div>
-                                <icon name="ni ni-building" size="lg" class="bg-gradient-white" color="primary" shadow
-                                      rounded></icon>
-                            </div>
-                            <div class="pl-4">
-                                <h4 class="display-3 text-white">Modern Interface</h4>
-                                <p class="text-white">The Arctic Ocean freezes every winter and much of the sea-ice then
-                                    thaws every summer, and that process will continue whatever happens.</p>
-                            </div>
-                        </div>
-                        <card shadow class="shadow-lg--hover mt-5">
-                            <div class="d-flex px-3">
-                                <div>
-                                    <icon name="ni ni-satisfied" gradient="success" color="white" shadow
-                                          rounded></icon>
-                                </div>
-                                <div class="pl-4">
-                                    <h5 class="title text-success">Awesome Support</h5>
-                                    <p>The Arctic Ocean freezes every winter and much of the sea-ice then thaws
-                                        every summer, and that process will continue whatever happens.</p>
-                                    <a href="#" class="text-success">Learn more</a>
-                                </div>
-                            </div>
-                        </card>
-                        <card shadow class="shadow-lg--hover mt-5">
-                            <div class="d-flex px-3">
-                                <div>
-                                    <icon name="ni ni-active-40" gradient="warning" color="white" shadow
-                                          rounded></icon>
-                                </div>
-                                <div class="pl-4">
-                                    <h5 class="title text-warning">Modular Components</h5>
-                                    <p>The Arctic Ocean freezes every winter and much of the sea-ice then thaws
-                                        every summer, and that process will continue whatever happens.</p>
-                                    <a href="#" class="text-warning">Learn more</a>
-                                </div>
-                            </div>
-                        </card>
-                    </div>
-                </div>
-            </div>
-        </section>
+
         <section class="section section-lg">
             <div class="container">
                 <div class="row justify-content-center text-center mb-lg">
@@ -490,8 +605,9 @@
 </template>
 
 <script>
+import App from '../App.vue';
 export default {
   name: "home",
-  components: {}
+  components: {App}
 };
 </script>
