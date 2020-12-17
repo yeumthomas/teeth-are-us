@@ -237,16 +237,8 @@
                     
         <!-- DENTIST BIO INTRO -->
 
-        <section class="section section section-shaped my-0 overflow-hidden">
-            <div class="shape shape-style-1 shape-skew">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-            <div class="container py-0">
+        <section class="section section-xl section-shaped my-5 pb-0 pt-200">
+            <div class="container mt--100">
                 <div class="row row-grid align-items-center">
                     <div class="col-md-6 ml-lg-auto">
                         <div class="position-relative pl-md-5">
@@ -255,22 +247,62 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="d-flex px-3">
-                            <div>
-                                <icon name="ni ni-building" size="lg" class="bg-gradient-white" color="primary" shadow
-                                      rounded></icon>
-                            </div>
-                            <div class="pl-4">
-                                <h4 class=" text-grey">Need a <h4 class="display-3 text-primary inline">Certified Dentist?</h4></h4>
-                                <p class="text-grey">We're always accepting new patients! We believe in providing the best possible 
+                            <div class="pl-md-4">
+                                <h4 class=" text-grey text-center">Looking for a <h4 class="display-3 text-primary inline text-center">Certified Dentist?</h4></h4>
+                                <p class="text-black text-center">We're always accepting new patients! We believe in providing the best possible 
                                     care to all our existing patients and welcome new patients to sample the service we have to offer.</p>
+                                <div class="text-center">
+                                    <a href="tel:111-111-1111" class="font-weight-bold display-4 ml--"><icon name="fa fa-phone" class="p-0 mx-0"></icon>111-111-1111</a>
+                                </div>
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>
         </section>
 
+        <!-- TESTIMONIALS -->
+        <section class="section section-xl section-shaped mt-0">
+            <div class="container">
+                <card class="rounded-xl bg-primary shadow-lg">
+                <div class="row text-center">
+                    <div class="col">
+                            <h6 class="text-center text-white">What People Are Saying</h6>
+                            <h1 class="text-center text-white text-weight-bold">TESTIMONIALS</h1>
+                        <div class="row px-5 align-items-center">
+                            <p class="text-white">Please take a look below at some of the recent testimonials we have received from our 
+                                patients. We welcome patient feedback to let us know how we can improve – please send us 
+                                details of your experience.</p>
+                            <div class="btn-wrapper col align-items-center mb-5">
+                                    <base-button tag="a"
+                                                 href="https://www.google.com/search?sxsrf=ALeKk015UBmyWpN8lTW5uIfNOPtcFUiK3g%3A1608178686234&ei=_tvaX8zjDZH4tAXQtoS4BQ&q=teeth+are+us+dental+reviews+google#lrd=0x8640c4307dae39e9:0xfc6b2e0eafb7bd90,1,,,"
+                                                 class="mb-3 mb-sm-0"
+                                                 type="info"
+                                                 icon="fa fa-file-text-o"
+                                                 target="_blank">
+                                        View More Reviews
+                                    </base-button>
+                            </div>
+                        </div>
+                        <div class="row align-items-center justify-content-center">
+                            <div class="col-md-5 mx-3 mb-3">
+                                <card class="bg-white">
+                                    <p>asdf</p>
+                                </card>
+                            </div>
+                            <div class="col-md-5 mx-3 mb-3">
+                                <card class="bg-white">
+                                    <p>asdf</p>
+                                </card>
+                            </div>
+                        </div>
+                    </div>
 
+                </div>
+                </card>
+            </div>
+        </section>
 
         <section class="section section-md">
             <div class="container">
