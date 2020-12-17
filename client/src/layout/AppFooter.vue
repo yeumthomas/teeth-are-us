@@ -1,19 +1,16 @@
 <template>
-    <footer class="footer has-cards">
+    <footer class="footer bg-default pt-1">
         <div class="container">
             <div class="row row-eq-height row-grid align-items-center mt-md align-items-stretch">
                     <div class="col-lg-4">
-                        <div class="row align-items-center text-center">
-                            LOGOGLOOGOGO
-                        </div>
                         <div class="row">
-                            <h3 class="text-primary font-weight-light mb-2">We are committed to providing you and
+                            <h3 class="text-white font-weight-light mb-2 mx-2">We are committed to providing you and
                                 your family with high quality dental care in a comfortable setting.</h3>
                         </div>
                     </div>
                     <div class="col-lg-4 text-lg-center">
                         <h3 class="text-primary mb-2 text-left font-weight-bold">Our Contacts</h3>
-                        <table class="table-sm table table-borderless">
+                        <table class="table-sm table table-borderless text-secondary">
                             <tbody>
                                 <tr>
                                     <th scope="row">
@@ -32,17 +29,17 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">
-                                        <div class="text-left"><i class="fa fa-phone"></i><b> Phone:</b> <a href="tel:8329133879"> 832-913-3879 (Voice)</a></div>
+                                        <div class="text-left"><i class="fa fa-phone"></i><b> Phone:</b> <a href="tel:7136477500"> (713) 647-7500 (Main)</a></div>
                                     </th>
                                 </tr>
                                 <tr>
                                     <th scope="row">
-                                        <div class="text-left"><i class="fa fa-phone"></i><b> Phone:</b> <a href="tel:7132525148"> 713-252-5148 (Text Only)</a></div>
+                                        <div class="text-left"><i class="fa fa-phone"></i><b> Phone:</b> <a href="tel:7138282785"> (713) 828-2785 (Text Only)</a></div>
                                     </th>
                                 </tr>
                                 <tr>
                                     <th scope="row">
-                                        <div class="text-left"><i class="ni ni-email-83"></i><a href="mailto:katyolivedental@yahoo.com"> katyolivedental@yahoo.com</a></div>
+                                        <div class="text-left"><i class="ni ni-email-83"></i><a href="mailto:teethareusdental@yahoo.com"> teethareusdental@yahoo.com</a></div>
                                     </th>
                                 </tr>
                                 <tr>
@@ -55,7 +52,7 @@
                     </div>
                     <div class="col-lg-4">
                         <h3 class="text-primary mb-2 font-weight-bold">Open Hours</h3>
-                        <table class="table-sm table table-striped">
+                        <table class="table-sm table table-striped text-secondary">
                             <tbody>
                                 <tr>
                                     <th scope="row">Monday</th>
@@ -89,31 +86,13 @@
                         </table>
                     </div>
             </div>
-            <hr>
-            <div class="row align-items-center justify-content-md-between">
+            <hr class="mt-5 mb-3">
+            <div class="row align-items-center justify-content-md-between text-secondary">
                 <div class="col-md-6">
                     <div class="copyright">
                         &copy; {{year}} Teeth Are Us Dental Group.
                     </div>
                 </div>
-                <!-- <div class="col-md-6">
-                    <ul class="nav nav-footer justify-content-end">
-                        <li class="nav-item">
-                            <a href="https://www.creative-tim.com" class="nav-link" target="_blank" rel="noopener">Creative Tim</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="https://www.creative-tim.com/presentation" class="nav-link" target="_blank" rel="noopener">About
-                                Us</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="http://blog.creative-tim.com" class="nav-link" target="_blank" rel="noopener">Blog</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md"
-                               class="nav-link" target="_blank" rel="noopener">MIT License</a>
-                        </li>
-                    </ul>
-                </div> -->
             </div>
         </div>
     </footer>
@@ -130,5 +109,10 @@ export default {
   }
 };
 </script>
-<style>
+<style scoped>
+hr {
+    height: 1px;
+    background-color: #ccc;
+    border: none;
+}
 </style>

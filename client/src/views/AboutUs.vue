@@ -310,7 +310,7 @@
 <script>
 import App from '../App.vue';
 export default {
-  name: "home",
+  name: "about us",
   components: {App}
 };
 </script>
