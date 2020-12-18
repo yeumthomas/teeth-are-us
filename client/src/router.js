@@ -9,6 +9,7 @@ import Register from "./views/Register.vue";
 import Profile from "./views/Profile.vue";
 import AboutUs from "./views/AboutUs.vue"
 import ContactUs from "./views/ContactUs.vue"
+import Services from "./views/Services.vue"
 
 Vue.use(Router);
 
@@ -39,6 +40,15 @@ export default new Router({
       components: {
         header: AppHeader,
         default: ContactUs,
+        footer: AppFooter
+      }
+    },
+    {
+      path: "/services",
+      name: "services",
+      components: {
+        header: AppHeader,
+        default: Services,
         footer: AppFooter
       }
     },

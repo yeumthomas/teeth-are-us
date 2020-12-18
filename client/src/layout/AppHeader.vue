@@ -2,7 +2,7 @@
     <header class="header-global sticky-top">
         <base-nav class="navbar-main bg-gradient-default py-2" transparent type="" effect="light" expand>
             <router-link slot="brand" class="navbar-brand mr-lg-5" to="/">
-                <img src="img/brand/white.png" alt="logo">
+                <img src="img/" alt="logo">
                 <p>LOGO HERE</p>  <!-- LOGO GOES HERE EVENTUALLY -->
             </router-link>
 
@@ -20,7 +20,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a slot="title" href="#" class="nav-link" role="button">
+                    <a slot="title" href="#/services" class="nav-link" role="button">
                         <i class="fa fa-check"></i>
                         <span class="nav-link-inner--text">OUR SERVICES</span>
                     </a>

@@ -12,13 +12,15 @@
                                 <div class="row mt-2 pt-5 text-left">
                                 </div>
                                 <div class="row text-left">
-                                    <div class="col-lg-6 pl-0">
-                                        <h1 class="display-2 text-white">Welcome to<span class="display-1">Teeth Are Us Dental</span></h1>
+                                    <div class="col-12 pl-0">
+                                        <h2 class="display-2 text-white font-weight-light mb-0">Welcome to</h2>
+                                        <h1 class="display-1 font-weight-bold text-white pt-0">Teeth Are Us Dental</h1>
+                                        <h2 class="display-2 font-weight-bold text-white pt-0">우리치과</h2>
                                         <p class="lead text-white mb-0 mt-2"><em >"I am very happy with my children's care here."</em></p>
                                         <p class="lead text-white my-0 pt-0">- E. P. (★★★★★)</p>
                                         <p class="lead text-white my-0"><em >"They are super friendly and professional."</em></p>
                                         <p class="lead text-white my-0 pt-0">- O. C. (★★★★★)</p>
-                                        <div class="btn-wrapper">
+                                        <div class="btn-wrapper mt-3">
                                             <button type="button" class="btn mb-3 mb-sm-0 btn-info">
                                                 <a href="/services" class="text-white">Explore Our Services</a>
                                             </button>
@@ -64,7 +66,7 @@
                                         <icon name="fa fa-users" type="info" rounded class="mb-3">
                                         </icon>
                                         <h1 class="display-2 text-info font-weight-bold text-uppercase">2</h1>
-                                        <p class="text-info">Dental Specialists</p>
+                                        <p class="text-info">Dentists</p>
                                     </div>
                                 </card>
                             </div>
@@ -105,7 +107,7 @@
                                 feel at home. We are committed to providing you and your family with high quality dental care in a 
                                 comfortable setting.</p>
                             <div class="btn-wrapper">
-                                <a href="https://www.google.com/"
+                                <a href="#/about"
                                     class="btn btn-primary mb-3 mb-sm-0">Learn More <b>→</b> MAP THIS LINK BRUH</a>
                             </div>
                         </div>
@@ -147,7 +149,7 @@
                                             <span class="badge badge-warning badge-pill">gap closure</span>
                                             <span class="badge badge-warning badge-pill">veneers</span>
                                         </div>
-                                        <div class="mt-3"><a href="#" class="text-warning">Learn more <b>→</b> BROKEN</a></div>
+                                        <div class="mt-3"><a href="#/services" class="text-warning">Learn more <b>→</b></a></div>
                                     </div>
                                 </div>
                             </card>
@@ -168,7 +170,7 @@
                                             <span class="badge badge-success badge-pill">root canals</span>
                                             <span class="badge badge-success badge-pill">tooth extractions</span>
                                         </div>
-                                        <div class="mt-3"><a href="#" class="text-success">Learn more <b>→</b></a></div>
+                                        <div class="mt-3"><a href="#/services" class="text-success">Learn more <b>→</b></a></div>
                                     </div>
                                 </div>
                             </card>
@@ -188,7 +190,7 @@
                                             <span class="badge badge-primary badge-pill">preventative screening</span>
                                             <span class="badge badge-primary badge-pill">baby root canal</span>
                                         </div>
-                                        <div class="mt-3"><a href="#" class="text-primary">Learn more <b>→</b></a></div>
+                                        <div class="mt-3"><a href="#/services" class="text-primary">Learn more <b>→</b></a></div>
                                     </div>
                                 </div>
                             </card>
@@ -208,7 +210,7 @@
                                             <span class="badge badge-info badge-pill">gum infection</span>
                                             <span class="badge badge-info badge-pill">severe toothache</span>
                                         </div>
-                                        <div class="mt-3"><a href="#" class="text-info">Learn more <b>→</b></a></div>
+                                        <div class="mt-3"><a href="#/services" class="text-info">Learn more <b>→</b></a></div>
                                     </div>
                                 </div>
                             </card>

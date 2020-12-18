@@ -1,5 +1,10 @@
 <template>
     <div>
+        <div class="row">
+            <div class="col-6">
+                <!-- make sure to add dentaquest as one of insurance companies -->
+            </div>
+        </div>
         <div class="position-relative">
             <section class="section-shaped my-0">
                 <div class="shape shape-style-1 shape-default bg-gradient-default shape-skew">
@@ -9,10 +14,10 @@
                     <div class="col-12 text-center align-self-center splash">
                         <div class="ml-5 shape-container d-flex">
                             <div class="col px-0">
-                                <div class="row mt-2 pt-5 text-left">
+                                <div class="row my-2 pt-5 text-left">
                                 </div>
                                 <div class="row text-left">
-                                    <div class="col-lg-6 pl-0">
+                                    <div class="col-md-12 pl-0">
                                         <h1 class="display-2 text-white">Welcome to<span class="display-1">Teeth Are Us Dental</span></h1>
                                         <p class="lead text-white mb-0 mt-2"><em >"I am very happy with my children's care here."</em></p>
                                         <p class="lead text-white my-0 pt-0">- E. P. (★★★★★)</p>

@@ -56,7 +56,7 @@
                             <tbody>
                                 <tr>
                                     <th scope="row">Monday</th>
-                                    <td><b>9AM - 5:30PM</b> (after-hours available)</td>
+                                    <td><b>9AM - 5:30PM</b></td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Tuesday</th>
@@ -64,7 +64,7 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">Wednesday</th>
-                                    <td><b>9AM - 5:30PM</b> (after-hours available)</td>
+                                    <td><b>9AM - 5:30PM</b></td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Thursday</th>
@@ -72,7 +72,7 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">Friday</th>
-                                    <td><b>9AM - 5:30PM</b> (after-hours available)</td>
+                                    <td><b>9AM - 5:30PM</b></td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Saturday</th>
