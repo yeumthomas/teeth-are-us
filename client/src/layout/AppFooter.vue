@@ -9,7 +9,7 @@
                         </div>
                     </div>
                     <div class="col-lg-4 text-lg-center">
-                        <h3 class="text-primary mb-2 text-left font-weight-bold">Our Contacts</h3>
+                        <h3 class="text-success mb-2 text-left font-weight-bold">Our Contacts</h3>
                         <table class="table-sm table table-borderless text-secondary">
                             <tbody>
                                 <tr>
@@ -19,7 +19,8 @@
                                             <br>
                                             <base-button tag="a"
                                                 target="_blank"
-                                                type="primary" 
+                                                id="schedule"
+                                                type="success" 
                                                 href="https://g.page/wooridental?share"
                                                 class="mb-1 mt-1">
                                                 Get directions on map  <i class="fa fa-globe"> </i>
@@ -29,29 +30,24 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">
-                                        <div class="text-left"><i class="fa fa-phone"></i><b> Phone:</b> <a href="tel:7136477500"> (713) 647-7500 (Main)</a></div>
+                                        <div class="text-left"><i class="fa fa-phone"></i><b> Phone:</b> <a href="tel:7136477500" class="text-success"> (713) 647-7500 (Main)</a></div>
                                     </th>
                                 </tr>
                                 <tr>
                                     <th scope="row">
-                                        <div class="text-left"><i class="fa fa-phone"></i><b> Phone:</b> <a href="tel:7138282785"> (713) 828-2785 (Text Only)</a></div>
+                                        <div class="text-left"><i class="fa fa-phone"></i><b> Phone:</b> <a href="tel:7138282785" class="text-success"> (713) 828-2785 (Text Only)</a></div>
                                     </th>
                                 </tr>
                                 <tr>
                                     <th scope="row">
-                                        <div class="text-left"><i class="ni ni-email-83"></i><a href="mailto:teethareusdental@yahoo.com"> teethareusdental@yahoo.com</a></div>
-                                    </th>
-                                </tr>
-                                <tr>
-                                    <th scope="row">
-                                        <div class="text-left"><i class="ni ni-mobile-button"></i> KaKao ID: Redriver23213</div>
+                                        <div class="text-left"><i class="ni ni-email-83"></i><a href="mailto:teethareusdental@yahoo.com" class="text-success"> teethareusdental@yahoo.com</a></div>
                                     </th>
                                 </tr>
                             </tbody>
                         </table>
                     </div>
                     <div class="col-lg-4">
-                        <h3 class="text-primary mb-2 font-weight-bold">Open Hours</h3>
+                        <h3 class="text-success mb-2 font-weight-bold">Open Hours</h3>
                         <table class="table-sm table table-striped text-secondary">
                             <tbody>
                                 <tr>
@@ -87,10 +83,18 @@
                     </div>
             </div>
             <hr class="mt-5 mb-3">
-            <div class="row align-items-center justify-content-md-between text-secondary">
-                <div class="col-md-6">
-                    <div class="copyright">
+            <div class="row align-items-center justify-content-between text-secondary">
+                <div class="col-md-6 col-xs-12">
+                    <div class="copyright mb-2">
                         &copy; {{year}} Teeth Are Us Dental Group.
+                    </div>
+                </div>
+                <div class="row copyright col-md-6 text-right dont-show-lg">
+                    <div class="col-12">Made with  ❤️ by Thomas Yeum                                                          </div>
+                </div>
+                <div class="row copyright col-md-6 text-left dont-show-md">
+                    <div class="col-12">
+                    <em class="mt-5">Made with  ❤️ by Thomas Yeum</em>
                     </div>
                 </div>
             </div>
@@ -114,5 +118,17 @@ hr {
     height: 1px;
     background-color: #ccc;
     border: none;
+}
+
+@media (min-width: 768px) { 
+    .dont-show-md {
+    display: none;
+    }
+}
+
+@media (max-width: 767px) {
+    .dont-show-lg {
+    display: none;
+    }
 }
 </style>

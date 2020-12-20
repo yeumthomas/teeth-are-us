@@ -1,314 +1,134 @@
 <template>
     <div>
-        <div class="row">
-            <div class="col-6">
-                <!-- make sure to add dentaquest as one of insurance companies -->
-            </div>
-        </div>
         <div class="position-relative">
             <section class="section-shaped my-0">
                 <div class="shape shape-style-1 shape-default bg-gradient-default shape-skew">
                 </div>
                 <div class="lg-only-padding-top shape-container align-self-center mt--200 pt-5 make-that-gap-even-smaller">
                     <div class="pt-5"></div>
-                    <div class="col-12 text-center align-self-center splash">
-                        <div class="ml-5 shape-container d-flex">
-                            <div class="col px-0">
-                                <div class="row my-2 pt-5 text-left">
-                                </div>
-                                <div class="row text-left">
-                                    <div class="col-md-12 pl-0">
-                                        <h1 class="display-2 text-white">Welcome to<span class="display-1">Teeth Are Us Dental</span></h1>
-                                        <p class="lead text-white mb-0 mt-2"><em >"I am very happy with my children's care here."</em></p>
-                                        <p class="lead text-white my-0 pt-0">- E. P. (★★★★★)</p>
-                                        <p class="lead text-white my-0"><em >"They are super friendly and professional."</em></p>
-                                        <p class="lead text-white my-0 pt-0">- O. C. (★★★★★)</p>
-                                        <div class="btn-wrapper">
-                                            <button type="button" class="btn mb-3 mb-sm-0 btn-info">
-                                                <a href="/services" class="text-white">Explore Our Services</a>
-                                            </button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <p class="text-default">.</p>
+                     <div class="row justify-content-center mt-5">
+                    <div class="col text-center mx-2 mx-lg-5">
+                        <div class="px-4 pb-3"><icon name="fa fa-user" gradient="success" color="white" shadow
+                                            rounded></icon></div>
+                        <h6 class="font-weight-light mb-0 text-white">Learn More About Our</h6>
+                        <h1 class="font-weight-heavy display-1 mb-5 text-white">Husband-Wife Dentist Duo</h1>
                     </div>
+                </div>
                 </div>
             </section>
         </div>
         
-        <!-- SECTION 1 STATISTICS -->
-        <section class="section section-lg pt-lg-0 mt--200 make-that-gap-even-smaller">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-12">
-                        <div class="row row-grid">
-                            <div class="col-lg-3 col-md-6 mt-md-3">
-                                <card class="border-0" shadow body-classes="py-4">
-                                    <div class="align-items-center text-center">
-                                        <icon name="fa fa-handshake-o" type="warning" rounded class="mb-3">
-                                        </icon>
-                                        <h1 class="display-2 text-warning font-weight-bold text-uppercase">20+</h1>
-                                        <p class="text-warning">years of experience</p>
-                                    </div>
-                                </card>
-                            </div>
-                            <div class="col-lg-3 col-md-6 mt-md-3">
-                                <card class="border-0" shadow body-classes="py-4">
-                                    <div class="align-items-center text-center">
-                                        <icon name="ni ni-satisfied" type="primary" rounded class="mb-3">
-                                        </icon>
-                                        <h1 class="display-2 text-primary font-weight-bold text-uppercase">10K</h1>
-                                        <p class="text-primary">Improved Smiles</p>
-                                    </div>
-                                </card>
-                            </div>
-                            <div class="col-lg-3 col-md-6 mt-md-3">
-                                <card class="border-0" shadow body-classes="py-4">
-                                    <div class="align-items-center text-center">
-                                        <icon name="fa fa-users" type="info" rounded class="mb-3">
-                                        </icon>
-                                        <h1 class="display-2 text-info font-weight-bold text-uppercase">2</h1>
-                                        <p class="text-info">Dental Specialists</p>
-                                    </div>
-                                </card>
-                            </div>
-                            <div class="col-lg-3 col-md-6 mt-md-3">
-                                <card class="border-0" shadow body-classes="py-4">
-                                    <div class="align-items-center text-center">
-                                        <icon name="fa fa-map-marker" type="success" rounded class="mb-3">
-                                        </icon>
-                                        <h1 class="display-2 text-success font-weight-bold text-uppercase">2</h1>
-                                        <p class="text-success">Our Locations</p>
-                                    </div>
-                                </card>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <section class="section section-lg pt-lg-0 mt--300 make-that-gap-even-smaller">
+            <div class="mx-2 mx-lg-5">
+                <row class="justify-content-center align-items-center">
 
-        <!-- SECTION 2 ABOUT BRIEF -->
-        <section class="section section-lg mt-lg--100 pt-0">
-            <div class="container">
-                <div class="row row-grid align-items-center">
-                    <div class="col-lg-6 order-sm-2 align-items-center mt-sm-4 mt-md-5 mt-lg-0">
-                        <img src="img/olive-dental.jpg" class="img-fluid rounded center-block">
-                    </div>
-                    <div class="col-lg-6 order-sm-1">
-                        <div class="pr-lg-2">
-                        
-                            <h5 class="font-weight-light">20+ Years of Dental Excellence</h5>
-                            <h3><b>Welcome to Teeth Are Us Dental</b></h3>
-                            <p class="mt-3">If you are looking for a great dentist in Memorial or the surrounding area, give us a try. 
-                                Dentistry is our passion and we want you to receive care in our state-of-the-art dental office. 
-                                Our team at Teeth are Us Dental is committed to creating a warm, comfortable and welcoming environment 
-                                for everyone.</p>
-                            <p class="mt-2"></p>
-                            <p>Our team works with you to provide personalized, gentle care in a modern yet warm atmosphere you can 
-                                feel at home. We are committed to providing you and your family with high quality dental care in a 
-                                comfortable setting.</p>
-                            <div class="btn-wrapper">
-                                <a href="https://www.google.com/"
-                                    class="btn btn-primary mb-3 mb-sm-0">Learn More <b>→</b> MAP THIS LINK BRUH</a>
+                    <card class="shadow-lg mb-5">
+                        <div class="row dont-display-on-md">
+                            <div class="col-lg-4 col-sm-12 align-self-center">
+                                <img src="img/ceci-2.jpg" class="w-100 mr-3 rounded-circle img-left img-fluid left-block make-that-pic-smaller">
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- SERVICES INTRO -->
-        <section class="section section-xl bg-gradient-warning pt-lg-5 pb-5">
-            <div class="shape shape-style-1 shape-default bg-gradient-warning shape-skew">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-            <div class="container">
-                <div class="row align-items-center mt-100 ">
-                    <div class="col text-center">
-                        <div class="icon icon-shape bg-gradient-white icon-lg shadow rounded-circle text-primary"><i class="fa fa-book"></i></div>
-                        <h1 class="text-center text-white pt-2"><b>We Offer a Variety of Services</b></h1>
-                    </div>
-                    <div class="row align-items-center d-flex align-items-start align-content-stretch">
-                        <div class="col-md-6 d-flex align-self-start">
-                            <card class="shadow-lg--hover shadow mt-5">
-                                <div class="d-flex px-1">
-                                    <div>
-                                        <icon name="ni ni-satisfied" gradient="warning" color="white" shadow
-                                            rounded></icon>
-                                    </div>
-                                    <div class="pl-4">
-                                        <h4 class="title text-warning">Cosmetic Dentistry</h4>
-                                        <p>Cosmetic Dentistry is concerned with the appearance of teeth 
-                                            and the enhancement of one's smile.</p>
-                                        <div>
-                                            <span class="badge badge-warning badge-pill">teeth whitening</span>
-                                            <span class="badge badge-warning badge-pill">gap closure</span>
-                                            <span class="badge badge-warning badge-pill">veneers</span>
-                                        </div>
-                                        <div class="mt-3"><a href="#" class="text-warning">Learn more <b>→</b> BROKEN</a></div>
+                            <div class="col-lg-8 pl-3 pr-4 ">
+                                <div class="row align-items-between px-0">
+                                    <div class="col px-0 pb-2">
+                                        <h2 class="mb-0 text-primary font-weight-bold">Cecilia Yeum, D.D.S.</h2>
+                                        <span>Dentist | </span> <i class="fa fa-phone"></i><a href="tel:7138282785" class="mb-2"> (713) 828-2785</a>
                                     </div>
                                 </div>
-                            </card>
-                        </div>
-                        <div class="col-md-6 d-flex align-self-start">
-                            <card class="shadow-lg--hover shadow mt-5">
-                                <div class="d-flex px-3">
-                                    <div>
-                                        <icon name="fa fa-heart" gradient="success" color="white" shadow
-                                            rounded></icon>
-                                    </div>
-                                    <div class="pl-4">
-                                        <h4 class="title text-success">General Dentistry</h4>
-                                        <p>General dentists provide services related to the general maintenance
-                                            of oral hygiene and tooth health.</p>
-                                        <div>
-                                            <span class="badge badge-success badge-pill">checkups</span>
-                                            <span class="badge badge-success badge-pill">root canals</span>
-                                            <span class="badge badge-success badge-pill">tooth extractions</span>
-                                        </div>
-                                        <div class="mt-3"><a href="#" class="text-success">Learn more <b>→</b></a></div>
-                                    </div>
-                                </div>
-                            </card>
-                        </div>
-                        <div class="col-md-6 d-flex align-self-start">
-                            <card class="shadow-lg--hover shadow mt-5">
-                                <div class="d-flex px-3">
-                                    <div>
-                                        <icon name="fa fa-child" gradient="primary" color="white" shadow
-                                            rounded></icon>
-                                    </div>
-                                    <div class="pl-4">
-                                        <h4 class="title text-primary">Pediatric Dentistry</h4>
-                                        <p>Your child will receive state-of-the-art
-                                            oral care from our team.</p>
-                                        <div>
-                                            <span class="badge badge-primary badge-pill">preventative screening</span>
-                                            <span class="badge badge-primary badge-pill">baby root canal</span>
-                                        </div>
-                                        <div class="mt-3"><a href="#" class="text-primary">Learn more <b>→</b></a></div>
-                                    </div>
-                                </div>
-                            </card>
-                        </div>
-                        <div class="col-md-6 d-flex align-self-start">
-                            <card class="shadow-lg--hover shadow mt-5">
-                                <div class="d-flex px-3">
-                                    <div>
-                                        <icon name="fa fa-ambulance" gradient="info" color="white" shadow
-                                            rounded></icon>
-                                    </div>
-                                    <div class="pl-4">
-                                        <h4 class="title text-info">Dental Emergency</h4>
-                                        <p>Helping thousands of people each year find immediate dental services.</p>
-                                        <div>
-                                            <span class="badge badge-info badge-pill">chipped tooth</span>
-                                            <span class="badge badge-info badge-pill">gum infection</span>
-                                            <span class="badge badge-info badge-pill">severe toothache</span>
-                                        </div>
-                                        <div class="mt-3"><a href="#" class="text-info">Learn more <b>→</b></a></div>
-                                    </div>
-                                </div>
-                            </card>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-                    
-        <!-- DENTIST BIO INTRO -->
-
-        <section class="section section-xl section-shaped my-0 pb-3 mt-lg-5 pt-100 mb-lg-5 make-that-gap-smaller">
-            <div class="container mt--100">
-                <div class="row row-grid align-items-center d-lg-none">
-                    <div class="col-md-12">
-                        <div class="position-relative pl-md-5">
-                            <img src="img/aboji-umoni.png" class="img-center img-fluid center-block make-that-pic-smaller">
-                        </div>
-                    </div>
-                </div>
-                <div class="row row-grid align-items-center mt-3">
-                    <div class="col-md-6 ml-lg-auto">
-                        <div class="position-relative pl-md-5 dont-display-on-md">
-                            <img src="img/aboji-umoni.png" class="img-center img-fluid center-block">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 mt-1">
-                        <div class="d-flex px-3">
-                            <div class="pl-md-4">
-                                <h4 class=" text-default text-center">Looking for a <h4 class="display-3 text-success inline text-center">Certified Dentist?</h4></h4>
-                                <p class="text-default text-center">We're always accepting new patients! We believe in providing the best possible 
-                                    care to all our existing patients and welcome new patients to sample the service we have to offer.</p>
-                                <div class="text-center">
-                                    <a href="tel:7136477500" class="font-weight-bold text-success display-4 ml--"><icon name="fa fa-phone" class="p-0 mx-0"></icon>(713) 647-7500</a>
+                                <div class="row text-default pr-3">
+                                    <p>Dr. Cecilia Yeum has a warm and gentle chairside manner.  She approaches her patients with a simple, basic principle:  
+                                        “what would I do if this patient were my family member?”  She is passionate about providing the best dental care possible 
+                                        in a safe and comfortable environment. </p>
+                                        
+                                    <p>Dr. Ceci grew up in South Korea.  She received a B.S. in Biology from UCLA before moving on to the University of Southern California 
+                                        Ostrow School of Dentistry to receive her DDS degree in 1998.  She practiced dentistry in Southern California for 10 years before
+                                         relocating to Houston.  She then took care of the smiles of thousands of patients in Houston for more 10 years before opening a second location
+                                    in Katy in 2019.  In her spare time,  she likes to spend time traveling with family  and is passionate about 
+                                           volunteering at her church.</p>
                                 </div>
                             </div>
                         </div>
-
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- TESTIMONIALS -->
-        <section class="section section-xl section-shaped my-0 px-0 pt-5 pb-100">
-            <div class="container px-0">
-                <card class="rounded-xl bg-gradient-primary shadow-lg">
-                <div class="row text-center">
-                    <div class="col">
-                            <h6 class="text-center text-white">What People Are Saying</h6>
-                            <h1 class="text-center text-white text-weight-bold">TESTIMONIALS</h1>
-                        <div class="row px-5 align-items-center">
-                            <p class="text-white">Please take a look below at some of the recent testimonials we have received from our 
-                                patients. We welcome patient feedback to let us know how we can improve – please send us 
-                                details of your experience.</p>
-                            <div class="btn-wrapper col align-items-center mb-5">
-                                    <base-button tag="a"
-                                                 href="https://www.google.com/search?sxsrf=ALeKk015UBmyWpN8lTW5uIfNOPtcFUiK3g%3A1608178686234&ei=_tvaX8zjDZH4tAXQtoS4BQ&q=teeth+are+us+dental+reviews+google#lrd=0x8640c4307dae39e9:0xfc6b2e0eafb7bd90,1,,,"
-                                                 class="mb-3 mb-sm-0"
-                                                 type="info"
-                                                 icon="fa fa-file-text-o"
-                                                 target="_blank">
-                                        View More Reviews
-                                    </base-button>
+                            <!-- for md and smaller -->
+                        <div class="row dont-display-on-lg">
+                            <div class="col-lg-4 col-sm-12 align-items-center mb-3">
+                                <img src="img/ceci-2.jpg" class=" rounded-circle img-center img-fluid left-block make-that-pic-smaller">
+                            </div>    
+                            <div class="col-12 px-3 ">
+                                <div class="row align-items-top px-0 pb-4">
+                                    <div class="col-12 px-0 text-align-bottom mb-0">
+                                        <h2 class="mb-0">Cecilia Yeum, D.D.S.</h2>
+                                        <span>Dentist | </span> <i class="fa fa-phone"></i><a href="tel:7138282785" class="mb-2"> (713) 828-2785</a>
+                                    </div>
+                                </div>
+                                <div class="row text-default pr-3">
+                                    <p>Dr. Cecilia Yeum has a warm and gentle chairside manner.  She approaches her patients with a simple, basic principle:  
+                                        “what would I do if this patient were my family member?”  She is passionate about providing the best dental care possible 
+                                        in a safe and comfortable environment. </p>
+                                        
+                                    <p>Dr. Ceci grew up in South Korea.  She received a B.S. in Biology from UCLA before moving on to the University of Southern California 
+                                        Ostrow School of Dentistry to receive her DDS degree in 1998.  She practiced dentistry in Southern California for 10 years before
+                                         relocating to Houston.  She then took care of the smiles of thousands of patients in Houston for more 10 years before opening a second location
+                                    in Katy in 2019.  In her spare time,  she likes to spend time traveling with family  and is passionate about 
+                                           volunteering at her church.</p>
+                                </div>
                             </div>
                         </div>
-                        <div class="row align-items-start justify-content-around">
-                            <div class="col-md-5 mx-0 mb-3 px-0">
-                                <card class="bg-white">
-                                    <h5>General Dentistry</h5>
-                                    <p class="text-info font-weight-light">★★★★★</p>
-                                    <p class="font-italic">"It's great to take care of the patient with sincerity and explain the details of dental caries & 
-                                        each treatment. I am also very happy with my children's care here. In addition, the reservation 
-                                        system is also good so you don't have to wait if you made a reservation previously."</p>
-                                    <p class="font-weight-bold">- E. P., <span class="font-italic text-info font-weight-light">patient</span></p>
-                                </card>
+                    </card><card class="shadow-lg mb-5">
+                        <div class="row dont-display-on-md">
+                            <div class="col-lg-4 col-sm-12 align-self-center">
+                                <img src="img/kevin-2.jpg" class="w-100 mr-3 rounded-circle img-left img-fluid left-block make-that-pic-smaller">
                             </div>
-                            <div class="col-md-5 mx-0 mb-3 px-0">
-                                <card class="bg-white">
-                                    <h5>Pediatric Dentistry</h5>
-                                    <p class="text-warning font-weight-light">★★★★★</p>
-                                    <p class="font-italic">"I am so grateful that I found Teeth Are Us Dental Group. I am 100% satisfied with the services 
-                                        they provide. They are very professional and customer service is top-notch. My son used to be afraid to go to 
-                                        the dentist, now he smiles when I tell him it’s time to go. Sure makes my job stress free."</p>
-                                    <p class="font-weight-bold">- J. F., <span class="font-italic text-warning font-weight-light">patient</span></p>
-                                </card>
+                            <div class="col-lg-8 pl-3 pr-4 ">
+                                <div class="row align-items-between px-0">
+                                    <div class="col px-0 pb-2">
+                                        <h2 class="mb-0 text-success font-weight-bold">Kevin Yeum, D.D.S.</h2>
+                                        <span>Dentist | </span> <i class="fa fa-phone"></i><a href="tel:7138282785" class="mb-2 text-success"> (713) 828-2785</a>
+                                    </div>
+                                </div>
+                                <div class="row text-default pr-3">
+                                    <p> Dr. Kevin Yeum has an easy-going personality that helps put all his patients at ease. He strongly believes 
+                                    that it takes a great teamwork between the dentist and the patient to achieve the best oral health possible.
+                                    That is why he puts great emphasis on listening to his patients' concerns and spending enough time to explain
+                                    and empower each patient with dental knowledge in an easily understood manner. He creates individualized 
+                                    treatment plans that will promote the best oral health for each patient.</p>
+
+                                    <p> Dr. Kevin was born and raised in South Korea. He attended the University of Southern California Ostrow School of 
+                                    Dentistry. He received his DDS degree in 1996 and practiced in Southern California for over a decade before relocating
+                                    to Houston. He took care of the smiles of thousands of patients in Houston for 10 years before opening a second location
+                                    in Katy in 2019. In his spare time, he likes to host barbecue parties and enjoys outdoor activities such as hunting and camping.</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
+                            <!-- for md and smaller -->
+                        <div class="row dont-display-on-lg">
+                            <div class="col-lg-4 col-sm-12 align-items-center mb-3">
+                                <img src="img/kevin-2.jpg" class=" rounded-circle img-center img-fluid left-block make-that-pic-smaller">
+                            </div>    
+                            <div class="col-12 px-3 ">
+                                <div class="row align-items-top px-0 pb-4">
+                                    <div class="col-12 px-0 text-align-bottom mb-0">
+                                        <h2 class="mb-0 text-success">Kevin Yeum, D.D.S.</h2>
+                                        <span>Dentist | </span> <i class="fa fa-phone"></i><a href="tel:7138282785" class="mb-2 text-success"> (713) 828-2785</a>
+                                    </div>
+                                </div>
+                                <div class="row text-default pr-3">
+                                    <p> Dr. Kevin Yeum has an easy-going personality that helps put all his patients at ease. He strongly believes 
+                                    that it takes a great teamwork between the dentist and the patient to achieve the best oral health possible.
+                                    That is why he puts great emphasis on listening to his patients' concerns and spending enough time to explain
+                                    and empower each patient with dental knowledge in an easily understood manner. He creates individualized 
+                                    treatment plans that will promote the best oral health for each patient.</p>
 
-                </div>
-                </card>
+                                    <p> Dr. Kevin was born and raised in South Korea. He attended the University of Southern California Ostrow School of 
+                                    Dentistry. He received his DDS degree in 1996 and practiced in Southern California for over a decade before relocating
+                                    to Houston. He took care of the smiles of thousands of patients in Houston for 10 years before opening a second location
+                                    in Katy in 2019. In his spare time, he likes to host barbecue parties and enjoys outdoor activities such as hunting and camping.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </card>
+                </row>
             </div>
         </section>
-
     </div>
 </template>
 
@@ -323,6 +143,10 @@ export default {
 @media (min-width: 991px) { 
     .lg-only-padding-top {
         padding-top: 15rem !important;
+    }
+
+    .dont-display-on-lg {
+        display: none;
     }
 }
 

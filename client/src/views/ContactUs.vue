@@ -7,24 +7,31 @@
                 <div class="lg-only-padding-top shape-container align-self-center mt--200 pt-5 make-that-gap-even-smaller">
                     <div class="pt-5"></div>
                     <p class="text-default">.</p>
+                     <div class="col mt-3 text-center mb-5">
+                         <div class="px-4 pb-2"><icon name="fa fa-phone" gradient="success" color="white" shadow
+                                            rounded></icon></div>
+                    <h5 class="text-white font-weight-light">Contact Us At</h5>
+                    <h1 class="text-white font-weight-bold">OUR TWO LOCATIONS</h1>
+                </div>
                 </div>
             </section>
         </div>
         
         <section class="section section-lg pt-lg-0 mt--300 make-that-gap-even-smaller">
             <div class="container">
-                <div class="col mt--100 text-center mb-4">
+                <!-- <div class="col mt--100 text-center mb-5">
                     <h5 class="text-white font-weight-light">Contact Us At</h5>
                     <h1 class="text-white font-weight-bold">OUR TWO LOCATIONS</h1>
-                </div>
+                </div> -->
                 <div class="row align-items-left d-flex align-content-stretch justify-content-center mx--100 px-0">
-                            <div class="col-md-6 px-3">
-                                <card class="bg-white shadow-lg px-1 mb-if-small" style="min-width: 80%;">
+                            <div class="h-100 col-md-6 px-3">
+                                <card class="h-100 card-lift--hover bg-white shadow-lg px-1 mb-if-small" style="min-width: 80%;">
                                     <div class="row">
                                         <div class="col">
                                             <icon name="fa fa-hospital-o" gradient="warning" color="white" shadow
                                                         rounded></icon>
-                                            <span class=" display-4 text-default">  Teeth Are Us Dental</span>
+                                            <span class=" display-4 text-default is-overlap1">  Teeth Are Us Dental</span>
+                                            <span class=" display-4 text-default no-overlap1">  Teeth Are Us</span>
                                             <p class="mt-0 text-white">_</p>
                                             <div class="mr-5"><div class="mr-5"><div class="mr-5"><hr class="mb-3 ml-2 mr-5 pr-5"></div></div></div>
                                         </div>
@@ -55,8 +62,8 @@
                                     </div>
                                 </card>
                             </div>
-                            <div class="col-md-6 px-3">
-                                <card class="bg-white shadow-lg">
+                            <div class="h-100 col-md-6 px-3">
+                                <card class="h-100 card-lift--hover bg-white shadow-lg">
                                     <div class="row">
                                         <div class="col">
                                             <icon name="fa fa-hospital-o" gradient="success" color="white" shadow
@@ -154,6 +161,18 @@ export default {
 
     .make-that-pic-smaller {
         max-width: 70%;
+    }
+}
+
+@media (min-width: 396px){
+    .no-overlap1 {
+        display: none;
+    }
+}
+
+@media (max-width: 395px) {
+    .is-overlap1 {
+        display: none;
     }
 }
 </style>

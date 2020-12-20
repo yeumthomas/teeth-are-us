@@ -2,6 +2,7 @@
     <div>
         <div class="position-relative">
             <section class="section-shaped my-0">
+                
                 <div class="shape shape-style-1 shape-default bg-gradient-default shape-skew">
                 </div>
                 <div class="lg-only-padding-top shape-container align-self-center mt--200 pt-5 make-that-gap-even-smaller">
@@ -22,7 +23,10 @@
                                         <p class="lead text-white my-0 pt-0">- O. C. (★★★★★)</p>
                                         <div class="btn-wrapper mt-3">
                                             <button type="button" class="btn mb-3 mb-sm-0 btn-info">
-                                                <a href="/services" class="text-white">Explore Our Services</a>
+                                                <a href="/#/services" class="text-white">Explore Our Services</a>
+                                            </button>
+                                            <button type="button" class="btn mb-3 mb-sm-0 btn-primary">
+                                                <a href="/#/#schedule" class="text-white">Open Hours</a>
                                             </button>
                                         </div>
                                     </div>
@@ -41,7 +45,7 @@
                     <div class="col-lg-12">
                         <div class="row row-grid">
                             <div class="col-lg-3 col-md-6 mt-md-3">
-                                <card class="border-0" shadow body-classes="py-4">
+                                <card class="h-100 border-0 card-lift--hover" shadow body-classes="py-4">
                                     <div class="align-items-center text-center">
                                         <icon name="fa fa-handshake-o" type="warning" rounded class="mb-3">
                                         </icon>
@@ -51,7 +55,7 @@
                                 </card>
                             </div>
                             <div class="col-lg-3 col-md-6 mt-md-3">
-                                <card class="border-0" shadow body-classes="py-4">
+                                <card class="h-100 border-0 card-lift--hover" shadow body-classes="py-4">
                                     <div class="align-items-center text-center">
                                         <icon name="ni ni-satisfied" type="primary" rounded class="mb-3">
                                         </icon>
@@ -61,7 +65,7 @@
                                 </card>
                             </div>
                             <div class="col-lg-3 col-md-6 mt-md-3">
-                                <card class="border-0" shadow body-classes="py-4">
+                                <card class="h-100 border-0 card-lift--hover" shadow body-classes="py-4">
                                     <div class="align-items-center text-center">
                                         <icon name="fa fa-users" type="info" rounded class="mb-3">
                                         </icon>
@@ -71,7 +75,7 @@
                                 </card>
                             </div>
                             <div class="col-lg-3 col-md-6 mt-md-3">
-                                <card class="border-0" shadow body-classes="py-4">
+                                <card class="h-100 border-0 card-lift--hover" shadow body-classes="py-4">
                                     <div class="align-items-center text-center">
                                         <icon name="fa fa-map-marker" type="success" rounded class="mb-3">
                                         </icon>
@@ -108,7 +112,7 @@
                                 comfortable setting.</p>
                             <div class="btn-wrapper">
                                 <a href="#/about"
-                                    class="btn btn-primary mb-3 mb-sm-0">Learn More <b>→</b> MAP THIS LINK BRUH</a>
+                                    class="btn btn-primary mb-3 mb-sm-0">Learn More <b>→</b></a>
                             </div>
                         </div>
                     </div>
@@ -133,8 +137,8 @@
                         <h1 class="text-center text-white pt-2"><b>We Offer a Variety of Services</b></h1>
                     </div>
                     <div class="row align-items-center d-flex align-items-start align-content-stretch">
-                        <div class="col-md-6 d-flex align-self-start">
-                            <card class="shadow-lg--hover shadow mt-5">
+                        <div class="h-100 col-md-6 d-flex align-self-start">
+                            <card class="h-100 card-lift--hover shadow-lg--hover shadow mt-5">
                                 <div class="d-flex px-1">
                                     <div>
                                         <icon name="ni ni-satisfied" gradient="warning" color="white" shadow
@@ -154,8 +158,8 @@
                                 </div>
                             </card>
                         </div>
-                        <div class="col-md-6 d-flex align-self-start">
-                            <card class="shadow-lg--hover shadow mt-5">
+                        <div class="h-100 col-md-6 d-flex align-self-start">
+                            <card class="h-100 card-lift--hover shadow-lg--hover shadow mt-5">
                                 <div class="d-flex px-3">
                                     <div>
                                         <icon name="fa fa-heart" gradient="success" color="white" shadow
@@ -175,8 +179,8 @@
                                 </div>
                             </card>
                         </div>
-                        <div class="col-md-6 d-flex align-self-start">
-                            <card class="shadow-lg--hover shadow mt-5">
+                        <div class="h-100 col-md-6 d-flex align-self-start">
+                            <card class="h-100 card-lift--hover shadow-lg--hover shadow mt-5">
                                 <div class="d-flex px-3">
                                     <div>
                                         <icon name="fa fa-child" gradient="primary" color="white" shadow
@@ -195,8 +199,8 @@
                                 </div>
                             </card>
                         </div>
-                        <div class="col-md-6 d-flex align-self-start">
-                            <card class="shadow-lg--hover shadow mt-5">
+                        <div class="h-100 col-md-6 d-flex align-self-start">
+                            <card class="h-100 card-lift--hover shadow-lg--hover shadow mt-5">
                                 <div class="d-flex px-3">
                                     <div>
                                         <icon name="fa fa-ambulance" gradient="info" color="white" shadow

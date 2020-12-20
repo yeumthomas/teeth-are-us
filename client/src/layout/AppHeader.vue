@@ -1,9 +1,8 @@
 <template>
     <header class="header-global sticky-top">
         <base-nav class="navbar-main bg-gradient-default py-2" transparent type="" effect="light" expand>
-            <router-link slot="brand" class="navbar-brand mr-lg-5" to="/">
-                <img src="img/" alt="logo">
-                <p>LOGO HERE</p>  <!-- LOGO GOES HERE EVENTUALLY -->
+            <router-link slot="brand" class="navbar-brand mr-lg-4" to="/">
+                <img src="img/logo9.png" alt="logo" class="logo-size">
             </router-link>
 
             <ul class="navbar-nav navbar-nav-hover align-items-lg-center ml-lg-auto">
@@ -51,4 +50,8 @@ export default {
 };
 </script>
 <style>
+.logo-size {
+    min-width: 100px;
+    height: auto;
+}
 </style>
