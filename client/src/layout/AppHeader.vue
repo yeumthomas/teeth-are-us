@@ -7,25 +7,25 @@
 
             <ul class="navbar-nav navbar-nav-hover align-items-lg-center ml-lg-auto">
                 <li class="nav-item">
-                    <a slot="title" href="#/" class="nav-link" role="button">
+                    <a slot="title" href="/" class="nav-link" role="button">
                         <i class="fa fa-home"></i>
                         <span class="nav-link-inner--text">HOME</span>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a slot="title" href="#/about" class="nav-link" role="button">
+                    <a slot="title" href="/about" class="nav-link" role="button">
                         <i class="fa fa-user"></i>
                         <span class="nav-link-inner--text">ABOUT US</span>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a slot="title" href="#/services" class="nav-link" role="button">
+                    <a slot="title" href="/services" class="nav-link" role="button">
                         <i class="fa fa-check"></i>
                         <span class="nav-link-inner--text">OUR SERVICES</span>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a slot="title" href="#/contact" class="nav-link" role="button">
+                    <a slot="title" href="/contact" class="nav-link" role="button">
                         <i class="fa fa-phone"></i>
                         <span class="nav-link-inner--text">CONTACT US</span>
                     </a>

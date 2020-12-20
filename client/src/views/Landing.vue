@@ -23,10 +23,10 @@
                                         <p class="lead text-white my-0 pt-0">- O. C. (★★★★★)</p>
                                         <div class="btn-wrapper mt-3">
                                             <button type="button" class="btn mb-3 mb-sm-0 btn-info">
-                                                <a href="/#/services" class="text-white">Explore Our Services</a>
+                                                <a href="/services" class="text-white">Explore Our Services</a>
                                             </button>
                                             <button type="button" class="btn mb-3 mb-sm-0 btn-primary">
-                                                <a href="/#/#schedule" class="text-white">Open Hours</a>
+                                                <a href="/#schedule" class="text-white">Open Hours</a>
                                             </button>
                                         </div>
                                     </div>
@@ -111,7 +111,7 @@
                                 feel at home. We are committed to providing you and your family with high quality dental care in a 
                                 comfortable setting.</p>
                             <div class="btn-wrapper">
-                                <a href="#/about"
+                                <a href="/about"
                                     class="btn btn-primary mb-3 mb-sm-0">Learn More <b>→</b></a>
                             </div>
                         </div>
@@ -153,7 +153,7 @@
                                             <span class="badge badge-warning badge-pill">gap closure</span>
                                             <span class="badge badge-warning badge-pill">veneers</span>
                                         </div>
-                                        <div class="mt-3"><a href="#/services" class="text-warning">Learn more <b>→</b></a></div>
+                                        <div class="mt-3"><a href="/services" class="text-warning">Learn more <b>→</b></a></div>
                                     </div>
                                 </div>
                             </card>
@@ -174,7 +174,7 @@
                                             <span class="badge badge-success badge-pill">root canals</span>
                                             <span class="badge badge-success badge-pill">tooth extractions</span>
                                         </div>
-                                        <div class="mt-3"><a href="#/services" class="text-success">Learn more <b>→</b></a></div>
+                                        <div class="mt-3"><a href="/services" class="text-success">Learn more <b>→</b></a></div>
                                     </div>
                                 </div>
                             </card>
@@ -194,7 +194,7 @@
                                             <span class="badge badge-primary badge-pill">preventative screening</span>
                                             <span class="badge badge-primary badge-pill">baby root canal</span>
                                         </div>
-                                        <div class="mt-3"><a href="#/services" class="text-primary">Learn more <b>→</b></a></div>
+                                        <div class="mt-3"><a href="/services" class="text-primary">Learn more <b>→</b></a></div>
                                     </div>
                                 </div>
                             </card>
@@ -214,7 +214,7 @@
                                             <span class="badge badge-info badge-pill">gum infection</span>
                                             <span class="badge badge-info badge-pill">severe toothache</span>
                                         </div>
-                                        <div class="mt-3"><a href="#/services" class="text-info">Learn more <b>→</b></a></div>
+                                        <div class="mt-3"><a href="/services" class="text-info">Learn more <b>→</b></a></div>
                                     </div>
                                 </div>
                             </card>
