@@ -11,7 +11,7 @@
                          <div class="px-4 pb-2"><icon name="fa fa-phone" gradient="success" color="white" shadow
                                             rounded></icon></div>
                     <h5 class="text-white font-weight-light">Contact Us At</h5>
-                    <h1 class="text-white font-weight-bold">OUR TWO LOCATIONS</h1>
+                    <h1 class="text-white font-weight-bold">Our Two Locations</h1>
                 </div>
                 </div>
             </section>

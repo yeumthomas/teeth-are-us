@@ -1,10 +1,9 @@
 <template>
-    <header class="header-global sticky-top">
-        <base-nav class="navbar-main bg-gradient-default py-2" transparent type="" effect="light" expand>
+    <header class=" sticky-top mx-0">
+        <base-nav class="bg-gradient-default py-3" transparent type="" effect="light" expand>
             <router-link slot="brand" class="navbar-brand mr-lg-4" to="/">
                 <img src="img/logo9.png" alt="logo" class="logo-size">
             </router-link>
-
             <ul class="navbar-nav navbar-nav-hover align-items-lg-center ml-lg-auto">
                 <li class="nav-item">
                     <a slot="title" href="/" class="nav-link" role="button">
@@ -15,7 +14,7 @@
                 <li class="nav-item">
                     <a slot="title" href="/about" class="nav-link" role="button">
                         <i class="fa fa-user"></i>
-                        <span class="nav-link-inner--text">ABOUT US</span>
+                        <span class="nav-link-inner--text">ABOUT THE DENTISTS</span>
                     </a>
                 </li>
                 <li class="nav-item">

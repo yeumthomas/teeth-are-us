@@ -5,8 +5,13 @@
                 
                 <div class="shape shape-style-1 shape-default bg-gradient-default shape-skew">
                 </div>
-                <div class="lg-only-padding-top shape-container align-self-center mt--200 pt-5 make-that-gap-even-smaller">
+                <div class="lg-only-padding-top shape-container align-self-center mt--200 pt-3 make-that-gap-even-smaller">
                     <div class="pt-5"></div>
+                    <div id="myAlert" class="text-center alert rounded-0 alert-dismissible alert-success mx-5 my-2 alert-margin fade show" role="alert">
+                        <i class="fa fa-phone"></i> Book an Appointment: <a href="tel:7136477500" class="alert-link"> (713) 647-7500</a><strong>   |   </strong>
+                        <i class="fa fa-calendar-check-o"></i> Open Hours: MWF 9AM-5:30PM, Sat 9AM-4:30PM every other week
+                    </div>
+                    
                     <div class="col-12 text-center align-self-center splash">
                         <div class="ml-5 shape-container d-flex">
                             <div class="col px-0">
@@ -45,7 +50,7 @@
                     <div class="col-lg-12">
                         <div class="row row-grid">
                             <div class="col-lg-3 col-md-6 mt-md-3">
-                                <card class="h-100 border-0 card-lift--hover" shadow body-classes="py-4">
+                                <card class="h-100 border-0" shadow body-classes="py-4">
                                     <div class="align-items-center text-center">
                                         <icon name="fa fa-handshake-o" type="warning" rounded class="mb-3">
                                         </icon>
@@ -55,7 +60,7 @@
                                 </card>
                             </div>
                             <div class="col-lg-3 col-md-6 mt-md-3">
-                                <card class="h-100 border-0 card-lift--hover" shadow body-classes="py-4">
+                                <card class="h-100 border-0" shadow body-classes="py-4">
                                     <div class="align-items-center text-center">
                                         <icon name="ni ni-satisfied" type="primary" rounded class="mb-3">
                                         </icon>
@@ -65,7 +70,7 @@
                                 </card>
                             </div>
                             <div class="col-lg-3 col-md-6 mt-md-3">
-                                <card class="h-100 border-0 card-lift--hover" shadow body-classes="py-4">
+                                <card class="h-100 border-0" shadow body-classes="py-4">
                                     <div class="align-items-center text-center">
                                         <icon name="fa fa-users" type="info" rounded class="mb-3">
                                         </icon>
@@ -75,7 +80,7 @@
                                 </card>
                             </div>
                             <div class="col-lg-3 col-md-6 mt-md-3">
-                                <card class="h-100 border-0 card-lift--hover" shadow body-classes="py-4">
+                                <card class="h-100 border-0" shadow body-classes="py-4">
                                     <div class="align-items-center text-center">
                                         <icon name="fa fa-map-marker" type="success" rounded class="mb-3">
                                         </icon>
@@ -102,17 +107,15 @@
                         
                             <h5 class="font-weight-light">20+ Years of Dental Excellence</h5>
                             <h3><b>Welcome to Teeth Are Us Dental</b></h3>
-                            <p class="mt-3">If you are looking for a great dentist in Memorial or the surrounding area, give us a try. 
+                            <p class="mt-3">If you are looking for a great dentist in Memorial give us a try. 
                                 Dentistry is our passion and we want you to receive care in our state-of-the-art dental office. 
                                 Our team at Teeth Are Us Dental is committed to creating a warm, comfortable and welcoming environment 
                                 for everyone.</p>
                             <p class="mt-2"></p>
-                            <p>Our team works with you to provide personalized, gentle care in a modern yet warm atmosphere you can 
-                                feel at home. We are committed to providing you and your family with high quality dental care in a 
-                                comfortable setting.</p>
+                            <p>"Our team works with you to provide personalized, gentle care. We are committed to providing you and your family with high quality dental care."</p>
                             <div class="btn-wrapper">
                                 <a href="/about"
-                                    class="btn btn-primary mb-3 mb-sm-0">Learn More <b>→</b></a>
+                                    class="btn btn-primary mb-3 mb-sm-0">More About Us <b>→</b></a>
                             </div>
                         </div>
                     </div>
@@ -134,90 +137,102 @@
                 <div class="row align-items-center mt-100 ">
                     <div class="col text-center">
                         <div class="icon icon-shape bg-gradient-white icon-lg shadow rounded-circle text-primary"><i class="fa fa-book"></i></div>
-                        <h1 class="text-center text-white pt-2"><b>We Offer a Variety of Services</b></h1>
+                        <h1 class="text-center text-white pt-2"><b>Our Services</b></h1>
                     </div>
                     <div class="row align-items-center d-flex align-items-start align-content-stretch">
                         <div class="h-100 col-md-6 d-flex align-self-start">
-                            <card class="h-100 card-lift--hover shadow-lg--hover shadow mt-5">
-                                <div class="d-flex px-1">
-                                    <div>
-                                        <icon name="ni ni-satisfied" gradient="warning" color="white" shadow
-                                            rounded></icon>
-                                    </div>
-                                    <div class="pl-4">
-                                        <h4 class="title text-warning">Cosmetic Dentistry</h4>
-                                        <p>Cosmetic Dentistry is concerned with the appearance of teeth 
-                                            and the enhancement of one's smile.</p>
+                            <a href="/services" class="p-0">
+                                <card class="card-lift--hover shadow-lg--hover shadow mt-5">
+                                    <div class="d-flex px-1">
                                         <div>
-                                            <span class="badge badge-warning badge-pill">teeth whitening</span>
-                                            <span class="badge badge-warning badge-pill">gap closure</span>
-                                            <span class="badge badge-warning badge-pill">veneers</span>
+                                            <icon name="ni ni-satisfied" gradient="warning" color="white" shadow
+                                                rounded></icon>
                                         </div>
-                                        <div class="mt-3"><a href="/services" class="text-warning">Learn more <b>→</b></a></div>
+                                        <div class="pl-4">
+                                            <h4 class="title text-warning">Cosmetic Dentistry</h4>
+                                            <p class=
+                                            "text-default">Cosmetic dentistry is concerned with the appearance of teeth 
+                                                and the enhancement of one's smile.</p>
+                                            <div>
+                                                <span class="badge badge-warning badge-pill">teeth whitening</span>
+                                                <span class="badge badge-warning badge-pill">gap closure</span>
+                                                <span class="badge badge-warning badge-pill">veneers</span>
+                                            </div>
+                                            <div class="mt-3"><a href="/services" class="text-warning">Learn more <b>→</b></a></div>
+                                        </div>
                                     </div>
-                                </div>
-                            </card>
+                                </card>
+                            </a>
                         </div>
                         <div class="h-100 col-md-6 d-flex align-self-start">
-                            <card class="h-100 card-lift--hover shadow-lg--hover shadow mt-5">
-                                <div class="d-flex px-3">
-                                    <div>
-                                        <icon name="fa fa-heart" gradient="success" color="white" shadow
-                                            rounded></icon>
-                                    </div>
-                                    <div class="pl-4">
-                                        <h4 class="title text-success">General Dentistry</h4>
-                                        <p>General dentists provide services related to the general maintenance
-                                            of oral hygiene and tooth health.</p>
+                            <a href="/services" class="p-0">
+                                <card class="card-lift--hover shadow-lg--hover shadow mt-5">
+                                    <div class="d-flex px-3">
                                         <div>
-                                            <span class="badge badge-success badge-pill">checkups</span>
-                                            <span class="badge badge-success badge-pill">root canals</span>
-                                            <span class="badge badge-success badge-pill">tooth extractions</span>
+                                            <icon name="fa fa-heart" gradient="success" color="white" shadow
+                                                rounded></icon>
                                         </div>
-                                        <div class="mt-3"><a href="/services" class="text-success">Learn more <b>→</b></a></div>
+                                        <div class="pl-4">
+                                            <h4 class="title text-success">General Dentistry</h4>
+                                            <p class=
+                                            "text-default">General dentists provide services related to the general maintenance
+                                                of oral hygiene and tooth health.</p>
+                                            <div>
+                                                <span class="badge badge-success badge-pill">checkups</span>
+                                                <span class="badge badge-success badge-pill">root canals</span>
+                                                <span class="badge badge-success badge-pill">tooth extractions</span>
+                                            </div>
+                                            <div class="mt-3"><a href="/services" class="text-success">Learn more <b>→</b></a></div>
+                                        </div>
                                     </div>
-                                </div>
-                            </card>
+                                </card>
+                            </a>
                         </div>
                         <div class="h-100 col-md-6 d-flex align-self-start">
-                            <card class="h-100 card-lift--hover shadow-lg--hover shadow mt-5">
-                                <div class="d-flex px-3">
-                                    <div>
-                                        <icon name="fa fa-child" gradient="primary" color="white" shadow
-                                            rounded></icon>
-                                    </div>
-                                    <div class="pl-4">
-                                        <h4 class="title text-primary">Pediatric Dentistry</h4>
-                                        <p>Your child will receive state-of-the-art
-                                            oral care from our team.</p>
+                            <a href="/services" class="p-0">
+                                <card class=" card-lift--hover shadow-lg--hover shadow mt-5 p-0">
+                                    <div class="d-flex px-3">
                                         <div>
-                                            <span class="badge badge-primary badge-pill">preventative screening</span>
-                                            <span class="badge badge-primary badge-pill">baby root canal</span>
+                                            <icon name="fa fa-child" gradient="primary" color="white" shadow
+                                                rounded></icon>
                                         </div>
-                                        <div class="mt-3"><a href="/services" class="text-primary">Learn more <b>→</b></a></div>
+                                        <div class="pl-4">
+                                            <h4 class="title text-primary">Pediatric Dentistry</h4>
+                                            <p class=
+                                            "text-default">Pediatric dentistry encompasses oral care for your children and providing them with careful and gentle treatment.
+                                            </p>
+                                            <div>
+                                                <span class="badge badge-primary badge-pill">preventative screening</span>
+                                                <span class="badge badge-primary badge-pill">baby root canal</span>
+                                            </div>
+                                            <div class="mt-3"><a href="/services" class="text-primary">Learn more <b>→</b></a></div>
+                                        </div>
                                     </div>
-                                </div>
-                            </card>
+                                </card>
+                            </a>
                         </div>
                         <div class="h-100 col-md-6 d-flex align-self-start">
-                            <card class="h-100 card-lift--hover shadow-lg--hover shadow mt-5">
-                                <div class="d-flex px-3">
-                                    <div>
-                                        <icon name="fa fa-ambulance" gradient="info" color="white" shadow
-                                            rounded></icon>
-                                    </div>
-                                    <div class="pl-4">
-                                        <h4 class="title text-info">Dental Emergency</h4>
-                                        <p>Helping thousands of people each year find immediate dental services.</p>
+                            <a href="/services" class="p-0">
+                                <card class="card-lift--hover shadow-lg--hover shadow mt-5">
+                                    <div class="d-flex px-3">
                                         <div>
-                                            <span class="badge badge-info badge-pill">chipped tooth</span>
-                                            <span class="badge badge-info badge-pill">gum infection</span>
-                                            <span class="badge badge-info badge-pill">severe toothache</span>
+                                            <icon name="fa fa-ambulance" gradient="info" color="white" shadow
+                                                rounded></icon>
                                         </div>
-                                        <div class="mt-3"><a href="/services" class="text-info">Learn more <b>→</b></a></div>
+                                        <div class="pl-4">
+                                            <h4 class="title text-info">Dental Emergency</h4>
+                                            <p class=
+                                            "text-default">Dental emergencies do happen and we are here to help you find the immediate dental services you need.</p>
+                                            <div>
+                                                <span class="badge badge-info badge-pill">chipped tooth</span>
+                                                <span class="badge badge-info badge-pill">gum infection</span>
+                                                <span class="badge badge-info badge-pill">severe toothache</span>
+                                            </div>
+                                            <div class="mt-3"><a href="/services" class="text-info">Learn more <b>→</b></a></div>
+                                        </div>
                                     </div>
-                                </div>
-                            </card>
+                                </card>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -246,7 +261,7 @@
                             <div class="pl-md-4">
                                 <h4 class=" text-default text-center">Looking for a <h4 class="display-3 text-success inline text-center">Certified Dentist?</h4></h4>
                                 <p class="text-default text-center">We're always accepting new patients! We believe in providing the best possible 
-                                    care to all our existing patients and welcome new patients to sample the service we have to offer.</p>
+                                    care for all of our existing patients and welcome new patients to sample the services we have to offer.</p>
                                 <div class="text-center">
                                     <a href="tel:7136477500" class="font-weight-bold text-success display-4 ml--"><icon name="fa fa-phone" class="p-0 mx-0"></icon>(713) 647-7500</a>
                                 </div>
@@ -315,10 +330,16 @@
 
 <script>
 import App from '../App.vue';
+import Icon from '../components/Icon.vue';
 export default {
   name: "home",
-  components: {App}
-};
+  components: {App, Icon},
+  data() {
+      return {
+        showDismissibleAlert: false
+      }
+  }
+}
 </script>
 <style scoped>
 @media (min-width: 991px) { 
@@ -327,6 +348,14 @@ export default {
     }
 }
 
+.icon-padd {
+    padding: 0rem 0rem !important;
+    margin: 0rem 0rem !important;
+}
+.alert-margin {
+    margin: 0rem !important;
+    max-width: 100%;
+}
 .splash {
     background-image: url(../../public/img/fam-smiling-6.jpg);
     margin: 0rem 2rem 0rem 2rem;
