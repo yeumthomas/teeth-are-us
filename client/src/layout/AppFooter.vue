@@ -4,8 +4,9 @@
             <div class="row row-eq-height row-grid align-items-center mt-md align-items-stretch">
                     <div class="col-lg-4">
                         <div class="row">
-                            <h3 class="text-white font-weight-light mb-2 mx-2">We are committed to providing you and
-                                your family with high quality dental care in a comfortable setting.</h3>
+                            <h3 class="text-success mb-2 mx-2 font-weight-bold">Statement</h3>
+                            <h4 class="text-white font-weight-light mb-2 mx-2">We are committed to providing you and
+                                your family with consistent high quality dental care in a comfortable environment.</h4>
                         </div>
                     </div>
                     <div class="col-lg-4 text-lg-center">
@@ -30,12 +31,12 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">
-                                        <div class="text-left"><i class="fa fa-phone"></i><b> Phone:</b> <a href="tel:7136477500" class="text-success"> (713) 647-7500 (Main)</a></div>
+                                        <div class="text-left"><i class="fa fa-phone"></i><a href="tel:7136477500" class="text-success"> (713) 647–7500 (Main)</a></div>
                                     </th>
                                 </tr>
                                 <tr>
                                     <th scope="row">
-                                        <div class="text-left"><i class="fa fa-phone"></i><b> Phone:</b> <a href="tel:7138282785" class="text-success"> (713) 828-2785 (Text Only)</a></div>
+                                        <div class="text-left"><i class="fa fa-phone"></i><a href="tel:7138282785" class="text-success"> (713) 828-2785 (Text Only)</a></div>
                                     </th>
                                 </tr>
                                 <tr>
@@ -52,7 +53,7 @@
                             <tbody>
                                 <tr>
                                     <th scope="row">Monday</th>
-                                    <td><b>9AM - 5:30PM</b></td>
+                                    <td><b>9AM – 5:30PM</b></td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Tuesday</th>

@@ -12,9 +12,8 @@
                             <div class="px-4 pb-3"><icon name="fa fa-check" gradient="success" color="white" shadow
                                             rounded></icon></div>
                             <h5 class="text-white font-weight-light">What We Offer</h5>
-                            <h1 class="text-white font-weight-bold">OUR SERVICES</h1>
-                            <p class="text-white mx-lg-5 px-lg-5">All of these services aim to enable patients enjoy a healthy life style where they feel no hesitation
-                                in displaying their beautiful smile.</p>
+                            <h1 class="text-white font-weight-bold">Our Services</h1>
+                            <p class=" text-white mx-lg-5 px-lg-5">All of these services aim to enable patients enjoy a healthy lifestyle with the confidence of a shining smile.</p>
                         </div>
                     </div>
                 </div>
@@ -33,18 +32,19 @@
                                 <h5 class="text-success font-weight-bold">General Dentistry</h5>
                                 <p>General dentists provide services related to the general maintenance of oral hygiene and tooth and gum health</p>
                                 <ul class="fa-ul marker-list-md">
-                                    <li><i class="fa-li fa fa-check text-success"></i>Cleanings - regular cleaning,  Lite/Deep scaling</li>
-                                    <li><i class="fa-li fa fa-check text-success"></i>Dental checkups</li>
-                                    <li><i class="fa-li fa fa-check text-success"></i>Fillings - tooth colored fillings</li>
-                                    <li><i class="fa-li fa fa-check text-success"></i>Bridges and crowns - Aesthetic tooth colored crowns &amp; bridges </li>
-                                    <li><i class="fa-li fa fa-check text-success"></i>Extractions - simple or surgical</li>
-                                    <li><i class="fa-li fa fa-check text-success"></i>Sealants for children</li>
-                                    <li><i class="fa-li fa fa-check text-success"></i>Digital x-rays - reduces great amount of radiation exposure</li>
-                                    <li><i class="fa-li fa fa-check text-success"></i>Emergency treatments</li>
-                                    <li><i class="fa-li fa fa-check text-success"></i>Gum treatment</li>
-                                    <li><i class="fa-li fa fa-check text-success"></i>Partial and full dentures ( cosmetic dentures)</li>
-                                    <li><i class="fa-li fa fa-check text-success"></i>Mouth guards / sports Guard</li>
-                                    <li><i class="fa-li fa fa-check text-success"></i>Root canal</li>
+                                    <li><i class="fa-li fa fa-check text-success"></i>Cleanings: regular cleaning</li>
+                                    <li><i class="fa-li fa fa-check text-success"></i>Lite & Deep Scaling</li>
+                                    <li><i class="fa-li fa fa-check text-success"></i>Dental Check-ups</li>
+                                    <li><i class="fa-li fa fa-check text-success"></i>Fillings</li>
+                                    <li><i class="fa-li fa fa-check text-success"></i>Bridges and Crowns</li>
+                                    <li><i class="fa-li fa fa-check text-success"></i>Extractions: simple or surgical</li>
+                                    <li><i class="fa-li fa fa-check text-success"></i>Sealants for Children</li>
+                                    <li><i class="fa-li fa fa-check text-success"></i>Digital X-Rays</li>
+                                    <li><i class="fa-li fa fa-check text-success"></i>Emergency Treatments</li>
+                                    <li><i class="fa-li fa fa-check text-success"></i>Gum Treatment</li>
+                                    <li><i class="fa-li fa fa-check text-success"></i>Partial and Full Dentures (cosmetic dentures)</li>
+                                    <li><i class="fa-li fa fa-check text-success"></i>Mouth Guards & Sports Guard</li>
+                                    <li><i class="fa-li fa fa-check text-success"></i>Root Canal</li>
 							    </ul>
                             </div>
 						</div>
@@ -58,12 +58,12 @@
 							    <h5 class="text-info font-weight-bold">Cosmetic Dentistry</h5>
                                 <p>Cosmetic dentistry is concerned with the appearance of teeth and the enhancement of a person's smile</p>
                                 <ul class="fa-ul marker-list-md">
-                                    <li><i class="fa-li fa fa-check text-info"></i>White (tooth colored fillings)</li>
-                                    <li><i class="fa-li fa fa-check text-info"></i>Anterior rowns/bridge with custom shade matching</li>
+                                    <li><i class="fa-li fa fa-check text-info"></i>White Fillings</li>
+                                    <li><i class="fa-li fa fa-check text-info"></i>Anterior Crowns & Bridges</li>
                                     <li><i class="fa-li fa fa-check text-info"></i>Gap closure (diastema closure)</li>
                                     <li><i class="fa-li fa fa-check text-info"></i>Veneers</li>
-                                    <li><i class="fa-li fa fa-check text-info"></i>Teeth whitening</li>
-                                    <li><i class="fa-li fa fa-check text-info"></i>Metal free crowns</li>
+                                    <li><i class="fa-li fa fa-check text-info"></i>Teeth Whitening</li>
+                                    <li><i class="fa-li fa fa-check text-info"></i>Metal-Free Crowns</li>
 							    </ul>
                             </div>
 						</div>
@@ -77,11 +77,12 @@
                                 <h5 class="text-primary font-weight-bold">Children's Dentistry</h5>
                                 <p>Your child will receive state-of-the-art oral care from our team with special attention to their specific needs</p>
                                 <ul class="fa-ul marker-list-md">
-                                    <li><i class="fa-li fa fa-check text-primary"></i>Early-age check up (starting 6 month old) with parent education</li>
-                                    <li><i class="fa-li fa fa-check text-primary"></i>Preventive services (sealant/ Fluoride)</li>
-                                    <li><i class="fa-li fa fa-check text-primary"></i>White fillings/crowns</li>
-                                    <li><i class="fa-li fa fa-check text-primary"></i>Baby root canal</li>
-                                    <li><i class="fa-li fa fa-check text-primary"></i>Orthodontic screening</li>
+                                    <li><i class="fa-li fa fa-check text-primary"></i>Early-Age Check Up: (starting 6 month old) with parent education</li>
+                                    <li><i class="fa-li fa fa-check text-primary"></i>Preventive Services (Sealant/ Fluoride)</li>
+                                    <li><i class="fa-li fa fa-check text-primary"></i>White Fillings</li>
+                                    <li><i class="fa-li fa fa-check text-primary"></i>White Crowns</li>
+                                    <li><i class="fa-li fa fa-check text-primary"></i>Baby Root Canal</li>
+                                    <li><i class="fa-li fa fa-check text-primary"></i>Orthodontic Screening</li>
                                 </ul>
                             </div>
 						</div>
@@ -97,7 +98,7 @@
                     <div class="px-4"><icon name="ni ni-badge" gradient="success" color="white" shadow
                                             rounded></icon></div>
                     <h6 class="pt-5 px-4 font-weight-bold text-default">We Accept These</h6>
-                    <h4 class="pb-3 px-4 font-weight-bold text-success">INSURANCE COMPANIES</h4>
+                    <h4 class="pb-3 px-4 font-weight-bold text-success">Insurance Companies</h4>
                     <div class="row text-primary">
 
                         <div class="px-4 col-sm-5">
@@ -118,9 +119,6 @@
                         </div>
                         <div class="col-sm-1"></div>
                     </div>
-                </div>
-                <div class=" col-12 align-items-center bg-full bg-insurance">
-                    <img src="img/insrance.png" class="img-fluid center-block align-items-center" style="max-width: 80%">
                 </div>
             </div>
         </section>

@@ -31,11 +31,11 @@
                             <div class="col-lg-8 pl-3 pr-4 ">
                                 <div class="row align-items-between px-0">
                                     <div class="col px-0 pb-2">
-                                        <h2 class="mb-0 text-primary font-weight-bold">Cecilia Yeum, D.D.S.</h2>
-                                        <span>Dentist | </span> <i class="fa fa-phone"></i><a href="tel:7138282785" class="mb-2"> (713) 828-2785</a>
+                                        <h2 class="pl-3 mb-0 text-primary font-weight-bold">Cecilia Yeum, D.D.S.</h2>
+                                        <span class="pl-3">Dentist | </span> <i class="fa fa-phone"></i><a href="tel:7138282785" class="mb-2"> (713) 828-2785</a>
                                     </div>
                                 </div>
-                                <div class="row text-default pr-3">
+                                <div class="row text-default pr-3 pl-3">
                                     <p>Dr. Cecilia Yeum has a warm and gentle chairside manner.  She approaches her patients with a simple, basic principle:  
                                         “what would I do if this patient were my family member?”  She is passionate about providing the best dental care possible 
                                         in a safe and comfortable environment. </p>
@@ -81,11 +81,11 @@
                             <div class="col-lg-8 pl-3 pr-4 ">
                                 <div class="row align-items-between px-0">
                                     <div class="col px-0 pb-2">
-                                        <h2 class="mb-0 text-success font-weight-bold">Kevin Yeum, D.D.S.</h2>
-                                        <span>Dentist | </span> <i class="fa fa-phone"></i><a href="tel:7138282785" class="mb-2 text-success"> (713) 828-2785</a>
+                                        <h2 class="pl-3 mb-0 text-success font-weight-bold">Kevin Yeum, D.D.S.</h2>
+                                        <span class="pl-3">Dentist | </span> <i class="fa fa-phone"></i><a href="tel:7138282785" class="mb-2 text-success"> (713) 828-2785</a>
                                     </div>
                                 </div>
-                                <div class="row text-default pr-3">
+                                <div class="row text-default pr-3 pl-3">
                                     <p> Dr. Kevin Yeum has an easy-going personality that helps put all his patients at ease. He strongly believes 
                                     that it takes a great teamwork between the dentist and the patient to achieve the best oral health possible.
                                     That is why he puts great emphasis on listening to his patients' concerns and spending enough time to explain
