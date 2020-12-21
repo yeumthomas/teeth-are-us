@@ -10,13 +10,18 @@ import Profile from "./views/Profile.vue";
 import AboutUs from "./views/AboutUs.vue"
 import ContactUs from "./views/ContactUs.vue"
 import Services from "./views/Services.vue"
+import NotFound from "./views/NotFound.vue"
 
 Vue.use(Router);
 
 export default new Router({
+  mode: 'history',
+  history: true,
+  historyApiFallback: true,
   linkExactActiveClass: "active",
   routes: [
     {
+      
       path: "/",
       name: "landing",
       components: {
@@ -78,6 +83,15 @@ export default new Router({
         default: Profile,
         footer: AppFooter
       }
+    },
+    {
+      path: '*',
+      name: 'notfound',
+      components: {
+        header: AppHeader,
+        default: NotFound,
+        footer: AppFooter
+      }
     }
   ],
   scrollBehavior: to => {
@@ -86,7 +100,5 @@ export default new Router({
     } else {
       return { x: 0, y: 0 };
     }
-  },
-  mode:'history',
-  history: true
+  }
 });
