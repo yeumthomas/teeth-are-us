@@ -1,6 +1,7 @@
 <template>
     <header class=" sticky-top mx-0">
         <base-nav class="bg-gradient-default py-3" transparent type="" effect="light" expand>
+        
             <router-link slot="brand" class="navbar-brand mr-lg-4" to="/">
                 <img src="img/logo9.png" alt="logo" class="logo-size">
             </router-link>
