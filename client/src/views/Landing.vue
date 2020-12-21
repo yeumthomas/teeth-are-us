@@ -358,11 +358,12 @@ export default {
 }
 .splash {
     background-image: url(../../public/img/fam-smiling-6.jpg);
-    margin: 0rem 2rem 0rem 2rem;
+    margin: 0rem;
+    padding-left: 2rem;
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: inset 0 0 0 45rem rgba(0,0,0,.6);
-    max-width: calc(100% - 4rem);
+    max-width: calc(100%);
     min-height: 500px;
 }
 
