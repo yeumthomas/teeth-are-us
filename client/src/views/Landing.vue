@@ -104,7 +104,7 @@
                             <h3><b>Welcome to Teeth Are Us Dental</b></h3>
                             <p class="mt-3">If you are looking for a great dentist in Memorial or the surrounding area, give us a try. 
                                 Dentistry is our passion and we want you to receive care in our state-of-the-art dental office. 
-                                Our team at Teeth are Us Dental is committed to creating a warm, comfortable and welcoming environment 
+                                Our team at Teeth Are Us Dental is committed to creating a warm, comfortable and welcoming environment 
                                 for everyone.</p>
                             <p class="mt-2"></p>
                             <p>Our team works with you to provide personalized, gentle care in a modern yet warm atmosphere you can 

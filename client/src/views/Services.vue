@@ -27,7 +27,7 @@
                     <div class="col-md-12 col-lg-4 mb-4">
 						<div class="card border-0 rounded shadow-lg h-100">
 							<div class="w-100">
-								<a href="service-page.html"><img src="https://www.katyolivedental.com/static/img/services/general_370x320.jpg" class="img-fluid card-img-top" alt=""></a>
+								<a href="service-page.html"><img src="https://www.katyolivedental.com/static/img/services/general_370x320.jpg" class="img-fluid card-img-top pic-style" alt=""></a>
 							</div>
                             <div class="row m-3">
                                 <h5 class="text-success font-weight-bold">General Dentistry</h5>
@@ -178,5 +178,10 @@ export default {
 
 .spec-width {
     width: 18rem;
+}
+
+.pic-style {
+    max-width: 100%;
+    height: auto;
 }
 </style>
