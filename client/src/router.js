@@ -21,7 +21,15 @@ export default new Router({
   linkExactActiveClass: "active",
   routes: [
     {
-      
+      path: '*',
+      name: 'notfound',
+      components: {
+        header: AppHeader,
+        default: NotFound,
+        footer: AppFooter
+      }
+    },
+    {
       path: "/",
       name: "landing",
       components: {
@@ -81,15 +89,6 @@ export default new Router({
       components: {
         header: AppHeader,
         default: Profile,
-        footer: AppFooter
-      }
-    },
-    {
-      path: '*',
-      name: 'notfound',
-      components: {
-        header: AppHeader,
-        default: NotFound,
         footer: AppFooter
       }
     }
