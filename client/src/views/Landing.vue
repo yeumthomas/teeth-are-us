@@ -100,7 +100,7 @@
             <div class="container">
                 <div class="row row-grid align-items-center">
                     <div class="col-lg-6 order-sm-2 align-items-center mt-sm-4 mt-md-5 mt-lg-0">
-                        <img src="img/olive-dental.jpg" class="img-fluid rounded center-block">
+                        <img src="img/teethareuspic.jpg" class="img-fluid rounded center-block">
                     </div>
                     <div class="col-lg-6 order-sm-1">
                         <div class="pr-lg-2">
